@@ -6,7 +6,7 @@ import "primereact/resources/themes/lara-light-cyan/theme.css";
 import "/node_modules/primeflex/primeflex.css";
 import "primeicons/primeicons.css";
 
-function App() {
+const App =()=> {
   return (
     <PrimeReactProvider>
       <BrowserRouter>
